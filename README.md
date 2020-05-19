@@ -1,4 +1,4 @@
-# Stock Sentiment Analysis
+# Stock returns vs. Sentiment Analysis
 
 Stock Analysis Using Twitter Sentiment Analysis
 
