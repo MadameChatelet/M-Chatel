@@ -1,5 +1,6 @@
-# MChatel
+# Stock Sentiment Analysis
 
+Stock Analysis Using Twitter Sentiment Analysis
 
 Tesla stock prices analyzed through Elon Mask Twits. 
 
